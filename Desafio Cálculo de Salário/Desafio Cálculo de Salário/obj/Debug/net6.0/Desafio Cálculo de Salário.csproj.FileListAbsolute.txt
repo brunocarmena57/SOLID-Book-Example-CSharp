@@ -1,0 +1,15 @@
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.csproj.AssemblyReference.cache
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.AssemblyInfoInputs.cache
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.AssemblyInfo.cs
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.csproj.CoreCompileInputs.cache
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\bin\Debug\net6.0\Desafio Cálculo de Salário.exe
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\bin\Debug\net6.0\Desafio Cálculo de Salário.deps.json
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\bin\Debug\net6.0\Desafio Cálculo de Salário.runtimeconfig.json
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\bin\Debug\net6.0\Desafio Cálculo de Salário.dll
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\bin\Debug\net6.0\Desafio Cálculo de Salário.pdb
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.dll
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\refint\Desafio Cálculo de Salário.dll
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.pdb
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\Desafio Cálculo de Salário.genruntimeconfig.cache
+C:\Users\gasto\source\repos\Desafio Cálculo de Salário\Desafio Cálculo de Salário\obj\Debug\net6.0\ref\Desafio Cálculo de Salário.dll
